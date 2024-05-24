@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DeveloperToolsToolWindowSettingsV1" lastSelectedContentNodeId="rubber-duck">
+    <developerToolsConfigurations>
+      <developerToolConfiguration developerToolId="qr-code-generator" id="18ea1371-5caf-498a-bba5-12de65e8fd96" name="Workbench">
+        <properties>
+          <property key="contentText" type="INPUT" value="kotlin.String|Lorem ipsum dolor sit amet." />
+        </properties>
+      </developerToolConfiguration>
+      <developerToolConfiguration developerToolId="color-picker" id="94bc8310-a756-464e-890a-596efee9a5fc" name="Workbench">
+        <properties>
+          <property key="selectedColor" type="INPUT" value="com.intellij.ui.JBColor|-7448173" />
+        </properties>
+      </developerToolConfiguration>
+    </developerToolsConfigurations>
+  </component>
+</project>
